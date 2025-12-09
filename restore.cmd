@@ -1,0 +1,1 @@
+powershell -Executionpolicy Bypass -Noprofile .\restore.ps1 -All

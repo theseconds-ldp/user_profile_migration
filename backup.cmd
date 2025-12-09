@@ -1,0 +1,1 @@
+powershell -Executionpolicy Bypass -Noprofile .\backup.ps1 -All -SkipKFM
